@@ -14,7 +14,7 @@
 O projeto foi desenvolvido para a fixação de conhecimentos em <b><i>Power Apps</i></b>.
 O desafio era criar um App de 3 telas a partir de uma tabela do <b>Excel</b>, onde deveria conter um cardápio de um restaurante fictício de sua escolha, possuindo imagens e seus respectivos conteúdos.
 
-### Contexto do App
+## 📖 Contexto do App
 
  
 
